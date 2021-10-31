@@ -1,4 +1,4 @@
-import Resume from './resume.pdf';
+
 
 const Contactpage = () => {
 
@@ -12,7 +12,7 @@ const Contactpage = () => {
                 <div className="info">
                     <a href="mailto:toufikaminew@gmail.com">Email</a>
                     <p>Phone #: (919) 589-2797</p>
-                    <a href={ Resume } id="resume">Resume</a>
+                   
                 </div>
                 <br/>
                 <br/>
