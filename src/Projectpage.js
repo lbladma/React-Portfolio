@@ -10,10 +10,10 @@ import PlanImg from './images/planner.jpg'
 const ProjectPage = () => {
 
     const projectList = [
-        { id: 1, name: "Rehab", github:"https://github.com/jyliao369/FeedIt", image: RehabImg },
-        { id: 2, name: "Weather Dash", github:"https://github.com/jyliao369/Weather_Dash", image: WeatherImg },
+        { id: 1, name: "Rehab", github:"https://warm-hamlet-41451.herokuapp.com/", image: RehabImg },
+        { id: 2, name: "Weather App", github:"https://lbladma.github.io/Weather-Dashboard-App/", image: WeatherImg },
         { id: 3, name: "Quiz Project", github:"https://lbladma.github.io/JS_Quiz_Project/", image: QuizImg },
-        { id: 4, name: "I am feeling App", github:"https://github.com/jyliao369/GameStore", image: LocalImg },
+        { id: 4, name: "I am feeling App", github:"https://lbladma.github.io/Project1-Interactive-Web-APP/", image: LocalImg },
         { id: 5, name: "Planner", github:"https://lbladma.github.io/Work-Day-Planner-App/", image: PlanImg },
         { id: 6, name: "My Portfolio", github:"https://lbladma.github.io/My_Portfolio/index.html", image: PortfolioImg },
     ];
