@@ -24,7 +24,7 @@ Throughout this portfolio, Some projects that I worked on include but are not li
 <img width="1440" alt="My Projects" title="My Projects"  src="./src/images/projects1.png">
 <img width="1440" alt="My Projects" title="My Projects"  src="./src/images/projects2.png">
 <img width="1440" alt="Group Projects" title="Tools & Technologies "src="./src/images/tools.png">
-<img width="1440" alt="Contact Us" title="Contact Us" src="./src/images/contact.png">
+<img width="1440" alt="Contact Us" title="Contact Us" src="./src/images/contact.jpg">
 <img width="1440" alt="Local Deploy" title="Local Deploy"src="./src/images/deploy.png">
 
 <br>
