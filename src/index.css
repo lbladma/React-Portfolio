@@ -241,10 +241,3 @@ code {
   height: 120px;
   background-color: rgb(203, 216, 17);
 }
-.footer {
-  padding: 30px 150px;
-  display: flex;
-  flex-direction:column;
-  justify-content: space-evenly;
-  margin: 35px 0px
-}
