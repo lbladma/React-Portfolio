@@ -31,9 +31,10 @@ const Contactpage = () => {
                      <a href="mailto:toufikaminew@gmail.com">Email</a>
                      <a href="https://github.com/lbladma">GitHub</a>
                     <a href="https://www.linkedin.com/in/taoufika/">LinkedIn</a>
-                    <a href="blank">Instagram</a>
-                    <a href="blank">Snapchat</a>
-                   
+                    <a href="https://lbladma.github.io/React-Portfolio/">Instagram</a>
+                    <a href="https://lbladma.github.io/React-Portfolio/">Snapchat</a>
+                   <a href="https://lbladma.github.io/React-Portfolio/">Meta</a>
+                   <a href="https://lbladma.github.io/React-Portfolio/">Youtube</a>
                 </div>
             </div>
             
