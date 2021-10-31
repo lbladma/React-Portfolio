@@ -16,22 +16,20 @@ code {
   margin: 0px;
   color: rgb(7, 8, 5);
   background-color: rgb(127, 25, 185);
- 
+
   font-family: 'Roboto', sans-serif;
 }
 
 /* This customizes the navbar */
 .navbar {
   padding: 30px;
-  
 
-  
- 
-}
 
-.navbar h1 {
+
 
 }
+
+.navbar h1 {}
 
 .navbar .links {
   margin-left: auto;
@@ -71,7 +69,7 @@ code {
 .infosection {
   width: 70%;
   padding: 100px;
-  color:rgb(244, 249, 233);
+  color: rgb(244, 249, 233);
 }
 
 .infosection h1 {
@@ -90,17 +88,18 @@ code {
 
 .projectpage h1 {
   align-items: center;
-  margin: 45px;}
+  margin: 45px;
+}
 
 .projectcardlist {
   width: 70%;
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap;    
+  flex-wrap: wrap;
   justify-content: center;
   background-color: rgb(17, 162, 219);
   border-radius: 35px;
-  box-shadow: 20px 15px  1px  0px  rgb(3, 212, 21);
+  box-shadow: 20px 15px 1px 0px rgb(3, 212, 21);
 }
 
 .card {
@@ -111,7 +110,7 @@ code {
   height: 450px;
   border-width: 2.5px;
   border-style: solid;
-  border-color: rgba(0,0,0,0.2);
+  border-color: rgba(0, 0, 0, 0.2);
   margin: 35px 25px;
   box-shadow: 20px 15px 5px 0px rgb(148, 7, 167);
   border-radius: 20px;
@@ -121,7 +120,7 @@ code {
   border-radius: 20px;
 }
 
-.cardimage img{
+.cardimage img {
   width: 99%;
   height: 225px;
   border-style: solid;
@@ -149,7 +148,7 @@ code {
   padding: 45px 350px;
 }
 
-.skillpage h1{
+.skillpage h1 {
   display: flex;
   justify-content: center;
   margin: 45px;
@@ -176,7 +175,7 @@ code {
 
 /* This customizes the contacts page */
 .contactpage {
- 
+
   flex-direction: row;
   width: 100%;
   padding: 30px;
@@ -188,7 +187,7 @@ code {
 }
 
 .contactsection h2 {
-  padding: 25px 0px 0px 0px;  
+  padding: 25px 0px 0px 0px;
 }
 
 .info p {
@@ -204,14 +203,13 @@ code {
   padding: 0px;
   border-radius: 100px;
   border-top: 2px
-
 }
 
 
 .sociallinks a {
-  text-decoration:rgb(37, 177, 19);
+  text-decoration: rgb(37, 177, 19);
   padding: 15px;
-  border-style:dotted;
+  border-style: dotted;
   border-radius: 36px;
 }
 
@@ -225,17 +223,17 @@ code {
   padding: 25px;
 }
 
-.formsection form{
+.formsection form {
   display: flex;
   flex-direction: column;
   background-color: rgb(204, 74, 22);
   padding: 30px;
   border-radius: 100px;
-  color:rgb(21, 50, 67);
+  color: rgb(21, 50, 67);
 }
 
 .form label {
-  color:rgb(12, 196, 21)
+  color: rgb(12, 196, 21)
 }
 
 .form input {
