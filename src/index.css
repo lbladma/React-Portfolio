@@ -14,8 +14,9 @@ code {
 
 * {
   margin: 0px;
-  color: rgb(244, 249, 233);
-  background-color: rgb(165, 161, 164);
+  color: rgb(7, 8, 5);
+  background-color: rgb(127, 25, 185);
+ 
   font-family: 'Roboto', sans-serif;
 }
 
@@ -174,7 +175,7 @@ code {
 
 /* This customizes the contacts page */
 .contactpage {
-  display: flex;
+ 
   flex-direction: row;
   width: 100%;
   padding: 30px;
@@ -199,6 +200,7 @@ code {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  
 }
 
 .sociallinks a {
@@ -209,7 +211,7 @@ code {
 }
 
 .formsection {
-  width: 50%;
+  width: 90%;
   margin: 0px 150px;
 }
 
@@ -221,21 +223,28 @@ code {
 .formsection form{
   display: flex;
   flex-direction: column;
-  background-color: rgb(244, 249, 233);
+  background-color: rgb(204, 74, 22);
   padding: 30px;
-  border-radius: 25px;
+  border-radius: 100px;
   color:rgb(21, 50, 67);
 }
 
 .form label {
-  color:rgb(21, 50, 67)
+  color:rgb(12, 196, 21)
 }
 
 .form input {
-  background-color: rgb(18, 209, 136);
+  background-color: rgb(203, 216, 17);
 }
 
 .form textarea {
   height: 120px;
   background-color: rgb(203, 216, 17);
+}
+.footer {
+  padding: 30px 150px;
+  display: flex;
+  flex-direction:column;
+  justify-content: space-evenly;
+  margin: 35px 0px
 }

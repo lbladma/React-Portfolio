@@ -5,6 +5,7 @@ import Contactpage from "./Contactpage";
 import ProjectPage from "./Projectpage";
 import Skillspage from "./Skillspage";
 
+
 const Homepage = () => {
     
     return (
@@ -13,8 +14,12 @@ const Homepage = () => {
             <ProjectPage />
             <Skillspage />
             <Contactpage />
+             
         </div>
+    
     );
+
+
 }
 
 export default Homepage
