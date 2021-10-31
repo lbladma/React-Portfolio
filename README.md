@@ -54,11 +54,11 @@ The other main challenge I faced was debugging and cleaning the code after I fin
 #
 #
 ## Technologies
-<img src="./src/images/html5.png"
+<img src="./src/images/HTML5.png"
 			width="3%"
 			alt="HTML"
 			title="HTML" />
-		  <img src="./src/images/css.png"
+		  <img src="./src/images/CSS.png"
 		  width="3%"
 		  alt="CSS"
 		  title="CSS"
@@ -114,7 +114,7 @@ The other main challenge I faced was debugging and cleaning the code after I fin
 		  alt="REACT"
 		  title="REACT"
 			/>
-			<img src="./src/images/jQuery.png"
+			<img src="./src/images/jquery.png"
 			width="3%"
 			alt="jQuery"
 			title="jQuery"
