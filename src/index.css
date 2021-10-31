@@ -40,10 +40,11 @@ code {
 }
 
 .navbar a {
-  margin-left: 20px;
+  margin-left: 50px;
   text-decoration: none;
-  padding: 6px;
+  padding: 50px;
 }
+
 
 /* This customizes the Homepage */
 .homepage {
@@ -200,13 +201,17 @@ code {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  
+  padding: 0px;
+  border-radius: 100px;
+  border-top: 2px
+
 }
 
+
 .sociallinks a {
-  text-decoration: none;
+  text-decoration:rgb(37, 177, 19);
   padding: 15px;
-  border-style: solid;
+  border-style:dotted;
   border-radius: 36px;
 }
 

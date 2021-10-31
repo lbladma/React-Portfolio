@@ -32,11 +32,15 @@ const Skillspage = () => {
 
     return (
         <div className="skillpage" id="skillpage" >
-            <h1>Tools & Technologies</h1>
+            <h1><u>
+                <i>Tools & Technologies
+                     </i>
+                </u>
+                </h1>
             <div className="skillslist">
                 {skillslist.map((skillslist) => (
                     <div className="icon">
-                        <img src={skillslist.icon} className="icons"></img>
+                        <img src={skillslist.icon} className="icons" alt=' '></img>
                         <p>{ skillslist.skill }</p>
                     </div>
                 ))}

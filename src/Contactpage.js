@@ -7,7 +7,11 @@ const Contactpage = () => {
         <div className="contactpage" id="contactpage">
             
             <div className="formsection">
-                <h2>Questions or Feedback</h2>
+                <h2><i><u>
+                    Questions or Feedback
+                    </u>
+                    </i>
+                </h2>
                 <form className="form">
                     <label />Name:
                     <input type="text" required />
@@ -20,23 +24,15 @@ const Contactpage = () => {
                 </form>
             </div>
             <div className="contactsection">
-                <h2>Contact Me</h2>
-                <p>Please reach out to me if you have any questions</p>
-                <br/>
-                <br/>
-                <div className="info">
-                 
-                    <p>Phone #: (919) 589-2797</p>
-                   
-                </div>
+
                 <br/>
                 <br/>
                 <div className="sociallinks">
                      <a href="mailto:toufikaminew@gmail.com">Email</a>
                      <a href="https://github.com/lbladma">GitHub</a>
                     <a href="https://www.linkedin.com/in/taoufika/">LinkedIn</a>
-                    <a href="">Instagram</a>
-                    <a href="">Snapchat</a>
+                    <a href="blank">Instagram</a>
+                    <a href="blank">Snapchat</a>
                    
                 </div>
             </div>
@@ -47,3 +43,4 @@ const Contactpage = () => {
 }
 
 export default Contactpage;
+

@@ -20,7 +20,8 @@ const ProjectPage = () => {
 
     return (
         <div className="projectpage" id="projectpage">
-            <h1> My Projects</h1>
+            <h1> <u><i>
+                My Projects</i></u></h1>
             <div className="projectcardlist">
 
                 {projectList.map((projectList) => (
