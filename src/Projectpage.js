@@ -1,3 +1,4 @@
+import React from 'react'
 import RehabImg from './images/rehab.jpg'
 import WeatherImg from './images/weather.jpg'
 import QuizImg from './images/quiz.jpg'

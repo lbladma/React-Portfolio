@@ -1,3 +1,5 @@
+import React from 'react'
+
 import AboutMePage from "./Aboutmepage";
 import Contactpage from "./Contactpage";
 import ProjectPage from "./Projectpage";

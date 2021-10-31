@@ -1,3 +1,4 @@
+import React from 'react'
 const AboutMePage = () => {
     return (
         <div className="aboutmepage">

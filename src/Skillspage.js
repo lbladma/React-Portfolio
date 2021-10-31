@@ -1,3 +1,5 @@
+import React from 'react'
+
 import JavascriptIcon from './images/javascript.png'
 import HTMLIcon from './images/HTML5.png'
 import CSSIcon from './images/CSS.png'

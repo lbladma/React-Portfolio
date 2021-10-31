@@ -1,3 +1,4 @@
+import React from 'react'
 import Resume from './resume.pdf';
 
 const Navbar = () => {
