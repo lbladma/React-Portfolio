@@ -28,7 +28,7 @@ const Contactpage = () => {
                 <br/>
                 <br/>
                 <div className="sociallinks">
-    
+                     <a href="mailto:mycodinguniversesgmail.com">Email</a>
                      <a href="https://github.com/lbladma">GitHub</a>
                     <a href="https://www.linkedin.com/in/taoufika/">LinkedIn</a>
                     <a href="https://lbladma.github.io/React-Portfolio/">Instagram</a>
