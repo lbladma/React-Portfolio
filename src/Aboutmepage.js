@@ -4,18 +4,32 @@ const AboutMePage = () => {
         <div className="aboutmepage">
             {/* This is info section  */}
             <div className="infosection">
-                <h1><u>
-                    About me. </u></h1>
+                <h2><u>
+                    About me</u></h2>
                     
                     <br>
                     </br>
-                    <hr>
+                   
+                    <p><b><i>
+                        My name is Taoufik... I am  </i></b>
+                        </p> 
+                     <hr>
                     </hr>
-                    My name is Taoufik 
                 <br/><br/>
-                <p> <marquee width='200%'>I am an Aspiring CyberSecurity and Full Stack Web Dev. professional with 
-                    Computer Science BA degree and 10+ years experience working in IT 
-                    as a senior computer engineer/system admin.</marquee>
+                <p> <marquee width='250%'>
+                     <br></br>
+                - A nerd/Technology enthusiast.
+                <br></br>
+                - A  Full Stack Web Developer  
+                <br></br>
+                - A Senior computer engineer/system admin.
+                <br></br>
+                - An Aspiring CyberSecurity professional 
+                <br></br> 
+                - Computer Science BA degree 
+                <br></br>
+                - 10+ years experience working in IT 
+                    </marquee>
                     </p>
             </div>
             {/* This is the image section */}

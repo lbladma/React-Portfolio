@@ -35,12 +35,14 @@ code {
   margin-left: auto;
   font-size: 100%;
   font-weight: bold;
+  font-style:italic;
 }
 
 .navbar a {
-  margin-left: 50px;
-  text-decoration: none;
-  padding: 50px;
+  margin-left: 30px;
+  text-decoration:none;
+  padding: 30px;
+  
 }
 
 
@@ -67,8 +69,8 @@ code {
 }
 
 .infosection {
-  width: 70%;
-  padding: 100px;
+  width: 100%;
+  padding: 140px;
   color: rgb(244, 249, 233);
 }
 
@@ -117,15 +119,29 @@ code {
 }
 
 .cardimage {
+
   border-radius: 20px;
+  
 }
 
 .cardimage img {
+
   width: 99%;
   height: 225px;
   border-style: solid;
   border-radius: 25px 20px 50px;
   color: rgb(21, 50, 67);
+
+  
+  
+}
+.cardimage :hover {
+opacity: 1;
+
+  color: rgb(238, 92, 8);
+
+
+
 }
 
 .cardinfo {
